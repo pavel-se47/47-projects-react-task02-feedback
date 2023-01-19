@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/47-projects-react-task02-feedback/static/css/main.36cd50d8.css",
+    "main.js": "/47-projects-react-task02-feedback/static/js/main.0c2089c5.js",
+    "index.html": "/47-projects-react-task02-feedback/index.html",
+    "main.36cd50d8.css.map": "/47-projects-react-task02-feedback/static/css/main.36cd50d8.css.map",
+    "main.0c2089c5.js.map": "/47-projects-react-task02-feedback/static/js/main.0c2089c5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.36cd50d8.css",
+    "static/js/main.0c2089c5.js"
+  ]
+}
