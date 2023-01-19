@@ -1,0 +1,24 @@
+.title {
+  display: block;
+  margin: 0;
+  margin-bottom: 30px;
+  text-align: center;
+  font-size: 28px;
+  font-weight: 700;
+}
+
+.feedbackStatistics {
+  display: block;
+}
+
+.tdBodyTable {
+  padding: 8px;
+  border-radius: 4px;
+  min-width: 160px;
+}
+
+.trBodyTable {
+  background-color: skyblue;
+  color: black;
+  text-align: center;
+}

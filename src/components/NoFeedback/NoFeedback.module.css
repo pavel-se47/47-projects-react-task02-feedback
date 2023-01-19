@@ -1,0 +1,12 @@
+.title {
+  display: block;
+  margin: 0;
+  margin-bottom: 30px;
+  text-align: center;
+  font-size: 28px;
+  font-weight: 700;
+}
+
+.feedbackStatistics {
+  display: block;
+}
